@@ -1,0 +1,5 @@
+https://github.com/Vitali-Ivanovich/LED-Cube-8x8x8
+
+https://microdigisoft.com/8x8-led-matrix-interfacing-using-arduino-in-proteus/
+
+https://www.youtube.com/watch?v=vCemFXdBxCM

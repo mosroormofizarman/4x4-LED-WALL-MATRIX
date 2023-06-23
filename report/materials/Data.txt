@@ -1,0 +1,7 @@
+negative = row
+column = positive
+
+row = D9- D12
+column = D5- D8
+
+We use the resistors on the negative side because it will limit the voltage of both the positive and negative sides.
